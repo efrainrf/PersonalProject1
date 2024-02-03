@@ -1,1 +1,29 @@
-faddsafdgit 
+* {box-sizing: border-box;
+padding: 0%;
+margin: 0%;
+}
+
+body {
+background-color: rgb(175, 175, 175);   
+}
+
+.header h2{
+font-style: normal;
+font-family: 'Courier New', Courier, monospace;  
+text-align: center;
+font-size: x-large;
+color: black;
+}
+
+.header h1{
+font-size: xx-large;
+font: bolder;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+text-align: center;
+color: red;
+
+}
+
+.p1{
+font-size: large;
+}
